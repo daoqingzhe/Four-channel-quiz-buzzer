@@ -1,0 +1,93 @@
+{
+  "id": "mwauyzzkorxsq2",
+  "title": "快照 2026/11/10 23:41:43",
+  "description": "",
+  "createdAt": "2026-11-10T15:41:43.099Z",
+  "hash": "2494bfb0",
+  "projectName": "四路抢答器",
+  "projectUuid": "95ed24d3a5f6418abb00cb2533464492",
+  "removedCorruptedProjectFile": true,
+  "documents": [
+    {
+      "name": "蜂鸣器led灯电路",
+      "uuid": "b63d1af8634299d0",
+      "documentType": 1,
+      "file": "documents/sch_01_蜂鸣器led灯电路.json",
+      "bytes": 81338,
+      "sha256": "0b106ecc6354a1692059dc1a0140e40d19a10b460a8b9aa122db09561389eb02",
+      "previewFiles": []
+    },
+    {
+      "name": "主持人判别电路",
+      "uuid": "fe7f55c7e4e0a4c3",
+      "documentType": 1,
+      "file": "documents/sch_02_主持人判别电路.json",
+      "bytes": 303490,
+      "sha256": "a913b90fa390212f4553a9e77bc09d821641130e66010aee818b61c0d830d6f4",
+      "previewFiles": []
+    },
+    {
+      "name": "判别电路",
+      "uuid": "cfd97572fa2a742d",
+      "documentType": 1,
+      "file": "documents/sch_03_判别电路.json",
+      "bytes": 571263,
+      "sha256": "0b0d5ad136e12b278358a535e014157baeeacaffde7c6abf02c13f3588338cd6",
+      "previewFiles": [
+        {
+          "file": "preview/sch_03_判别电路.part-001.txt",
+          "bytes": 524288,
+          "sha256": "60a5976e69888d4ad70bf3da50ce8ef48cf21953f5864d4ead46dd2b91897d70"
+        },
+        {
+          "file": "preview/sch_03_判别电路.part-002.txt",
+          "bytes": 46975,
+          "sha256": "ad6ecb3ccdee331c6a58ad6eda5e21a4ee4f2ba1257a1271e283f524e4baefe6"
+        }
+      ]
+    },
+    {
+      "name": "控制数码管",
+      "uuid": "bc06738c9fc9d028",
+      "documentType": 1,
+      "file": "documents/sch_04_控制数码管.json",
+      "bytes": 292707,
+      "sha256": "198db0c1c5f5d2a10183c5a9de283b76db4b0ba059dcf4a33f8f62fe1f9d743b",
+      "previewFiles": []
+    },
+    {
+      "name": "晶振控制电路",
+      "uuid": "09eb5ab6930cb36d",
+      "documentType": 1,
+      "file": "documents/sch_05_晶振控制电路.json",
+      "bytes": 61643,
+      "sha256": "4b0af1673f323e7eb6bb42e3867f68f947a3fdd57187d93a014568e1157877f3",
+      "previewFiles": []
+    },
+    {
+      "name": "PCB1",
+      "uuid": "a3b50381b82355e0",
+      "documentType": 3,
+      "file": "documents/pcb_01_PCB1.json",
+      "bytes": 1276213,
+      "sha256": "6dabc9209e106e20999e35b4f16a487149c36b8ceaa6c3d15cc5ee0c278b84d1",
+      "previewFiles": [
+        {
+          "file": "preview/pcb_01_PCB1.part-001.txt",
+          "bytes": 524288,
+          "sha256": "a8eae0f404dc9cb0aa3f76af297f25725157ffa4800e05e9f1766a4179da3cc7"
+        },
+        {
+          "file": "preview/pcb_01_PCB1.part-002.txt",
+          "bytes": 524288,
+          "sha256": "d5523c6cc6b965c197c005ac85cc7aa70ec1189787e620e7805f1918412cf57c"
+        },
+        {
+          "file": "preview/pcb_01_PCB1.part-003.txt",
+          "bytes": 227637,
+          "sha256": "83d1f8218a56eed81f6d08815907f0716040135d1473384d1dc8d3cca29b31b0"
+        }
+      ]
+    }
+  ]
+}
